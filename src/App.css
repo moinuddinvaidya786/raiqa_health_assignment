@@ -1,4 +1,4 @@
-/* src/app.css */
+
 :root {
   --primary-color: #2C3E50; /* Deep Charcoal */
   --accent-color: #9B59B6; /* Vibrant Purple */
@@ -262,6 +262,6 @@ body {
 
 .sort-icon {
   font-size: 1.2em;
-  line-height: 1; /* Ensures vertical alignment */
-  transition: transform 0.3s ease; /* Add a smooth transition to the icon */
+  line-height: 1; 
+  transition: transform 0.3s ease; 
 }
