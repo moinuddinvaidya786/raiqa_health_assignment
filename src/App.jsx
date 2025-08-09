@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Counter from './components/Counter';
 import ListView from './components/ListView';
-import './app.css';
+import './App.css';
 
 const App = () => {
   const [list, setList] = useState([]);
